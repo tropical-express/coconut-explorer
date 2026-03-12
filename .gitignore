@@ -1,0 +1,6 @@
+# IDE project settings
+.idea/
+
+# Windows Thumbnail cache files
+desktop.ini
+thumbs.db
